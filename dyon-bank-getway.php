@@ -6,7 +6,7 @@ Description: این افزونه درگاه پرداخت به همراه فرم 
 Version: 1.0
 Author: Roozbeh Hajizadeh
 Author URI: http://dyon.ir
-License: A "Slug" license name e.g. GPL2
+License: LGPL2
 */
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
